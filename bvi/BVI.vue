@@ -1,16 +1,16 @@
 <script>
-import "/resources/bvi/js/bvi.min.js"
-import "/resources/bvi/css/bvi.min.css"
+import "../bvi/js/bvi.min.js"
+import "../bvi/css/bvi.min.css"
 export default
 {
      mounted()
      {
           const script = document.createElement('script');
-          script.src="/resources/bvi/js/bvi.min.js";
+          script.src="../bvi/js/bvi.min.js";
           document.head.appendChild(script);
 
           const css = document.createElement('link');
-          css.src="/resources/bvi/css/bvi.min.css";
+          css.src="../bvi/css/bvi.min.css";
           css.type="text/css";
           document.head.appendChild(css);
 
