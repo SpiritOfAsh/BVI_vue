@@ -1,8 +1,8 @@
 {
   "name": "bvi_vue",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "1.0.1",
+  "description": "BVI script in Vue component",
+  "main": "BVI.vue",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
