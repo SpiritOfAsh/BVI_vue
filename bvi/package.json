@@ -1,8 +1,8 @@
 {
   "name": "bvi_vue",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "BVI script in Vue component",
-  "main": "BVI.vue",
+  "main": "common/BVI.vue",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,6 +11,6 @@
     "url": "https://github.com/SpiritOfAsh/BVI_vue/BVI_vue.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "SpiritOfAsh",
   "license": "ISC"
 }
